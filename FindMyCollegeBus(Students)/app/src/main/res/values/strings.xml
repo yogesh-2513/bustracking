@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindMyCollegeBus</string>
+    <string name="title_activity_get_route">Map</string>
+</resources>
